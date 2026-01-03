@@ -80,5 +80,3 @@ Si te interesa mi trabajo o quieres colaborar en algún proyecto, ¡no dudes en 
 ---
 
 *Este repositorio es parte de mi formación profesional en Ciencia de Datos.*
-
-```
